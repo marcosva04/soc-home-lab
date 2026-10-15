@@ -1,2 +1,1 @@
-# soc-home-lab
-Laboratorio SOC para monitorización, detección y respuesta a incidentes con Wazuh, endpoints Linux/Windows y análisis de logs.
+Laboratorio defensivo para practicar monitorización con Wazuh, análisis de logs, investigación de alertas y respuesta a incidentes en entornos controlados.
